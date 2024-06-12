@@ -1,97 +1,120 @@
-  	** Please forward to anyone who might be interested **
-            	*Apologies for multiple postings*
+The subject of Email: The 6th Workshop on Health Recommender Systems co-located with ACM RecSys 2024: Call for Papers
+
+
+  ** Please forward this to anyone who might be interested **
+            *Apologies for multiple postings*
 --------------------------------------------------------------------
-                 	CALL FOR PAPERS
+                  CALL FOR PAPERS
   International Workshop on Health Recommender Systems,
-         	*Deadline  July 13st, 2020*
-            	to be held in  Rio de Janeiro, Brazil
-co-located with ACM RECSYS 2020 (https://recsys.acm.org/)
-       	Website: https://healthrecsys.github.io/2020
---------------------------------------------------------------------
-**Important Note** We are continuously monitoring the COVID-19 situation and considering alternatives to allow for remote participation in both the main RecSys 2020 conference and all its workshops should disruptions still occur in late September.
+          *Deadline  August 30th, 2024 *
+            to be held in Bari, Italy,
+co-located with ACM RecSys 2024 (https://recsys.acm.org/)
+        Website: https://healthrecsys.github.io/ 
 --------------------------------------------------------------------
 
 Important Dates:
 ================
 
-** July 13st, 2020, Paper submission deadline
-** August 6th, 2020, Author notification
-** September 3rd, 2020, Camera-ready version deadline
-** September 26th, 2020, HealthRecSys workshop
-** September 22-26, 2020, RecSys conference 
+** August 30th, 2024, Paper submission deadline
+** September 13th, 2024, Author notification
+** September 20th, 2024, Camera-ready version deadline
+** October tba, 2024, HRS Workshop
+** 14nd-18th October 2024 RecSys conference
 
 Workshop Organizers:
 ====================
-Alan Said (University of Gothenburg, Sweden)
-Hanna Schaefer (University of Konstanz, Germany)
+Hanna Hauptmann (University of Utrecht, Netherlands)
 Christoph Trattner (University of Bergen, Norway)
-Helma Torkamaan (University of Duisburg-Essen, Germany)
+Helma Torkamaan (Delft University of Technology, Netherlands)
 
 Objectives & Topics:
 ====================
-Recommendations are becoming evermore important in health settings with the aim being to assist people live healthier lives. Three previous workshops on Health Recommender Systems (HRS) have incorporated diverse research fields and problems in which recommender systems can improve our awareness, understanding and behaviour regarding our own, and the general public's health. At the same time, these application areas bring new challenges into the recommender community. Recommendations that influence the health status of a patient need to be legally sound and, as such, today, they often involve a human in the loop to make sure the recommendations are appropriate. To make the recommender infallible, complex domain-specific user models need to be created, which creates privacy issues. While trust in a recommendation needs to be explicitly earned through, for example,  transparency, explanations and empowerment, other systems might want to persuade users into taking beneficial actions that would not be willingly chosen otherwise. Multiple and diverse stakeholders in health systems produce further challenges. Taking the patient's perspective, simple interaction and safety against harmful recommendations might be the prioritized concern. For clinicians and experts, on the other hand, what matters is precise and accurate content. Healthcare and insurance providers and clinics all have other priorities. This workshop will deepen the discussions started at the three prior workshops and will work towards further development of the research topics in Health Recommender Systems.
+Background: The HealthRecSys workshop discussions over the years have spanned a broad spectrum of topics, reflecting the multifaceted nature of health recommender systems and the diverse applications and challenges of recommender systems in the health domain. Previous workshops encouraged discussions of the potential of recommender systems in the health domain, various new applications, associated challenges, and practical solutions for existing systems or scenarios. These discussions have not only introduced new challenges to the recommender system community but have also underscored the critical role of human oversight in ensuring the reliability and safety of health recommendations. The diversity of application domains discussed, from mental health to nutrition, and the variety of stakeholders involved, from patients to healthcare providers, underscore the complexity and importance of this research area.
 
-Our aim is to enhance the results of the last two workshops in the following areas:
+Goals: Our aim with the 6th HealthRecSys is to reignite these conversations and provide a forward-thinking platform that revisits the foundational elements that have contributed to the field's growth. However, the workshop aspires to do more by infusing new perspectives and tackling the most pressing global challenges and technological innovations head-on. The workshop will explore contemporary themes such as the impact of global health crises on recommender systems, the integration of Large Language Models and other generative AI models in health applications, the increasing emphasis on personalized and self-managed care, and the increasing focus on health equity leading to consideration of literacy, accessibility and monetary means when building health recommender systems. These topics not only reflect the current state of the world but also align with the broader shifts towards ethical AI, and the need for systems that can adapt to and address individual health and care needs. Furthermore, HealthRecSys is dedicated to strengthening the network of researchers working on health recommender systems, drawing participants from an array of health and care domains. This effort is aimed at cultivating a cross-disciplinary community that promotes collaboration among recommender systems specialists, healthcare professionals, ethicists, and policymakers, among others. To enhance cross-sector collaboration, the 6th HealthRecSys workshop will encourage joint projects and funding prospects, in addition to promoting the sharing of resources, datasets, and tools among scholars and industry practitioners.
 
-** Elaborate discussion topics of the previous workshops on health promotion, health care as well as methods
-** Strengthen the community of researchers working on Health in RecSys
-** Attract representatives from e.g. health, psychology, medicine, nutrition, fitness
-** Find cross-domain collaboration projects and funding targets
-** Exchange and share infrastructure (datasets and tools)
+The workshop is calling for submissions on a wide array of topics within health recommender systems. This includes systems aimed at health promotion, preventive, curative care, and recommender systems that are health-aware. The scope of topics for the workshop is extensive, covering various aspects within the domain of health recommender systems and health-aware recommender systems, which include, but are not limited to:
 
-We invite submissions that may include the following topics but are not limited to:
-
+** Accessibility, Usability, and Augmented Decision-Making
+** Adherence and Patient (User) Compliance
 ** Algorithms and Recommendation Strategies
-** Domain Knowledge Representation
-** Regulations and Standards
-** Medical Evaluation Techniques
-** User Profiling
-** Pervasive Systems
-** Personalization
 ** Behavioral Interventions
-** Persuasion/Nudging/Behavioral Change
+** Case studies of Health Recommender Systems, Success and Failures and Lesson learned
+** Domain Knowledge Representation
+** Electronic Health Records Integration
+** Empowerment and Autonomy
+** Ethics
+** Evaluation and Metrics
+** Equity
+** Explanations and Justifications in Health Recommendations
+** From Participatory Design and Co-Creation to HealthRecSys
 ** Gamification and Serious Games
-** Adherence
-** Empowerment
-** Trust
-** Explanations
-** Patient Needs/ Satisfaction
+** Generative AI
+** Health-Aware Recommender Systems
+** Health and Care Workers and Interactive Intelligent Systems
+** Human/Expert-in-the-Loop
+** Human-RecSys Collaboration for Personalized Health
+** Interfaces, Visual, Context-aware, Conversational, Mobile
+** In-the-Wild Personalization
+** Longitudinal Studies
+** LLM-based recommendations in Health
+** Medical Evaluation Techniques
+** Mobile Health Recommender Systems
+** Multi-objective Challenges
+** Multi-stakeholder Challenges
+** Patient Needs/Satisfaction
+** Personalization
+** Persuasion/Nudging/Behavioral Change
+** Pervasive Systems
+** Privacy and Security
+** Research Methods and tools
+** Recommendations VS. Not Clinical Decision Supports
+** Regulations and Standards
+** Self-Care
+** Trust and Transparency
 ** User Interaction Design
-** Human/ Expert-in-the-Loop
-** Privacy
-
-The goal of this workshop is to share and discuss research and projects that reach beyond classic recommender techniques and discuss health domain related challenges of recommender systems.
+** User Profiling and Adaptive Systems
+** Value-Driven Design of Health Recommender Systems
+** Wearables for Recommender Systems
 
 Submissions:
 ============
-We solicit research papers (up to 6 pages) and short position papers (2 pages), both in the ACM conference paper style. Participants can decide between a research focused submission, resulting in a workshop presentation, and a project focused submission, resulting in a workshop poster. A selection of best papers will be presented in a flash talk. Further papers will be presented in the form of a poster. Papers should be submitted in EasyChair: https://easychair.org/conferences/?conf=healthrecsys20
+We solicit short research papers (4-6 pages) and short position papers (2 pages + references), both in the ACM conference paper style-double-column format. Participants can decide between a research-focused submission and a project-focused submission.
 
-** Submission category research: innovative research ideas, preliminary results or system prototypes
+Submission category research: innovative research ideas, preliminary findings, or system prototypes that contribute new knowledge to the field
 
-** Submission category project: funded research projects, industry and research collaborations or health-care and research collaborations
+Submission category project: presentations on funded research initiatives, collaborations between industry and academia, or partnerships between healthcare entities and research institutions.
 
 Submission guidelines:
 ======================
+
 All submitted papers must:
 
-** Be written in English;
-** Contain author names, affiliations, and email addresses;
-** Be formatted according to the ACM SIG Proceedings Template with a font size no smaller than 9pt;
-** Be in PDF (make sure that the PDF can be viewed on any platform), and formatted for US Letter size;
+** be written in English;
+** contain author names, affiliations, and email addresses;
+** be formatted according to the ACM SIG Proceedings Template -double-column format, with a font size no smaller than 9pt;
+** be in PDF (make sure that the PDF can be viewed on any platform), and formatted for US Letter size;
 
-Link or demo in attachment are preferred in both cases. All papers will be peer-reviewed, must not be under review in any other conference, workshop or journal (at the time of submission), and must contain novel contributions. Accepted papers will be published according to the ACM RECSYS 2020 WS publication rules. Please use the workshop's EasyChair submission page for submitting your paper.
+Submissions are encouraged to include links or demos as attachments to enhance their presentation. All submissions will undergo a rigorous peer-review process to ensure quality and originality. It is imperative that submitted works are not concurrently under review at any other conference, workshop, or journal and contain original, unpublished contributions. Accepted papers will be published according to the ACM RECSYS 2024 WS publication rules, with prior proceedings having been published in CEUR workshop proceedings.
 
 A Few Remarks
 =============
-** The title of the paper, authors, and the author order cannot be changed after the acceptance
-** Major changes to the text of the reviewed and accepted papers are not permitted after the review
-** At least one of the authors should participate in the workshop, register in the RecSys conference, and personally present the paper in the workshop.
-
+**  The title of the paper, authors, and the author order cannot be changed
+after the acceptance
+** Major changes to the text of the reviewed and accepted papers are not
+permitted after the review
+** At least one of the authors should participate in the workshop, register
+in the RecSys conference, and personally present the paper in the workshop.
 
 Location:
 =========
-RecSys 2020 will be hosted in Rio de Janeiro, Brazil from September 22-26, 2020. Please visit the RecSys 2020 website for more information about this location: https://recsys.acm.org/recsys20/location/
+RecSys 2024 will be hosted in Bari, Italy, from 14–18 October 2024.
+Please visit the RecSys 2024 website for more
+information about this location: https://recsys.acm.org/recsys24/location/ 
 
 Contact:
 ========
-If you have questions regarding the workshop, do not hesitate to contact the workshop chairs: healthrecsys@gmail.com
+If you have questions regarding the workshop, do not hesitate to contact
+the workshop chairs: healthrecsys@gmail.com
+
+
